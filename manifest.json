@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "non-unlocked DM's Content Value on OnlyPants",
+    "version": "69",
+    "description": "Get overall value of non-unlocked content in your DM's on OnlyPants",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "onlypans.js"
+            ]
+        }
+    ],
+    "icons": {
+        "16": "16x16.png",
+        "32": "32x32.png",
+        "128": "128x128.png",
+        "256": "256x256.png"
+    }
+}

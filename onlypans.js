@@ -14,7 +14,7 @@ function getPrice(e) {
                 items = i;
                 var sum = sum + Math.round(prices[i].innerText.replace("UNLOCK FOR " + symbol, ""));
             }
-            console.log("%s%s for %s items", sum, symbol, items)
+            console.log("%s%s for %s items", sum, symbol, items+1)
         }
         if (document.getElementsByClassName("b-price g-semibold").length > 0) {
             const prices = document.getElementsByClassName("b-price g-semibold");
@@ -26,7 +26,7 @@ function getPrice(e) {
                 items = i;
                 sum = sum + Math.round(prices[i].innerText.replace(symbol, ""));
             }
-            console.log("%s%s for %s items", sum, symbol, items)
+            console.log("%s%s for %s items", sum, symbol, items+1)
         }
     }
 }

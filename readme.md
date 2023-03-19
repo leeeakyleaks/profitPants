@@ -10,7 +10,8 @@
 `chrome://extensions/`
 
 ###### in url box
-###### or drag-n-drop from folder
+###### "Load unpacked"
+###### "and install from folder"
 
 *press `CTRL+SHIFT+I` in your browser.*
 *and scroll.*

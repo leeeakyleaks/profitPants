@@ -4,7 +4,7 @@
 
 **Get overall value of non-unlocked content in your DM's on OnlyPants** [![](https://img.shields.io/badge/-chrome-green)](https://img.shields.io/badge/-chrome-green)
 
-####HOW-TO
+#### HOW-TO
 
 ###### made for chrome, to install u can copy/paste
 `chrome://extensions/`
@@ -18,7 +18,5 @@
 ###### it will calculate all non-unlocked posts and their overall value. 
 ###### works in chat window and in chat "gallery" view mode.
 **[>> DOWNLOAD <<](https://github.com/leeeakyleaks/profitPants/releases/tag/profitPants/ "DOWNLOAD")**
-
-[========]
 
 [![](https://img.shields.io/badge/-made%20with%20%3C3-green)](https://img.shields.io/badge/-made%20with%20%3C3-green)

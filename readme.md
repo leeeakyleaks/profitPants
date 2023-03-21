@@ -18,6 +18,9 @@
 
 ###### it will calculate all non-unlocked posts and their overall value. 
 ###### works in chat window and in chat "gallery" view mode.
+
+![](https://github.com/leeeakyleaks/profitPants/releases/download/profitPants/preview.gif)
+
 **[>> DOWNLOAD <<](https://github.com/leeeakyleaks/profitPants/releases/tag/profitPants/ "DOWNLOAD")**
 
 [![](https://img.shields.io/badge/-made%20with%20%3C3-green)](https://img.shields.io/badge/-made%20with%20%3C3-green)
